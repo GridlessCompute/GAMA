@@ -1,0 +1,3 @@
+# GAMA
+
+GAMA Static Website
