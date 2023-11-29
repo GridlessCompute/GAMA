@@ -757,6 +757,9 @@ section {
   transform: translateY(-10px);
 }
 
+
+
+
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
@@ -776,7 +779,7 @@ section {
   color: #fff;
 }
 
-.cta .cta-btn {
+.cta-btn {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 16px;
@@ -788,13 +791,12 @@ section {
   margin-top: 10px;
   background: #f7931a;
   border:1px solid #f7931a;
-  color: #151515;
-  
+  color: #fff;  
 }
 
-.cta .cta-btn:hover {
+ .cta-btn:hover {
 	border: 1px solid #f7931a;
-  color: #fff;
+  color: #151515;
 }
 
 /*--------------------------------------------------------------
